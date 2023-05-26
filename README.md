@@ -1,4 +1,4 @@
-# CS-Degree-Courses
+# Computer Sciences Degree Courses
 
 * [Single Variable Calculus](https://www.edx.org/xseries/mitx-18.01x-single-variable-calculus)
 * [Multivariable calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
@@ -23,6 +23,5 @@
 * [Android development with kotlin](https://classroom.udacity.com/courses/ud9012)
 * [Advanced Android with Kotlin](https://www.udacity.com/course/advanced-android-with-kotlin--ud940)
 * [Georgia tech program](https://www.udacity.com/georgia-tech)
-* [Coding Interview Prep.](https://www.freecodecamp.org/learn/)
 
-You Can Also see [This Repo](https://github.com/Eyadhamza/Computer-Science-Entry), By Eng. [Eyad Hamza](https://github.com/Eyadhamza)
+**You Can Also see [This Repo](https://github.com/Eyadhamza/Computer-Science-Entry), By Eng. [Eyad Hamza](https://github.com/Eyadhamza)**
