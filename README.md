@@ -25,3 +25,7 @@
 * [Georgia tech program](https://www.udacity.com/georgia-tech)
 
 **You Can Also see [This Repo](https://github.com/Eyadhamza/Computer-Science-Entry), By Eng. [Eyad Hamza](https://github.com/Eyadhamza)**
+
+## Give a Star! ⭐️
+
+If you find this repository useful, please give it a star. Thanks!
